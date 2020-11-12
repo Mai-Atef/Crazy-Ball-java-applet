@@ -1,2 +1,2 @@
-# MovingText
-MovingText like "News Ticker"
+# crazy ball 
+crazy ball by button start & pause
